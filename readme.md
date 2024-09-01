@@ -78,4 +78,4 @@ Here are some additional resources to help you learn more about machine learning
 
 ---
 
-Happy learning and coding! Feel free to reach me on [LinkedIn][(https://www.linkedin.com/in/sandhavi)]. if you have any questions or suggestions.
+Happy learning and coding! Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/sandhavi) if you have any questions or suggestions.
