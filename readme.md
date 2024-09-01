@@ -14,7 +14,6 @@ Welcome to the **Python for Machine Learning** repository! This repository is de
   - [Python Libraries for Machine Learning](#python-libraries-for-machine-learning)
   - [Hands-On Data Exploration](#hands-on-data-exploration)
   - [Useful Links](#useful-links)
-  - [License](#license)
 
 ## Introduction to Machine Learning
 
@@ -76,10 +75,7 @@ Here are some additional resources to help you learn more about machine learning
 - [YouTube Tutorial: Machine Learning Basics](https://youtu.be/i_LwzRVP7bg?si=IQPMxiaMO3VdUarG)
 - [YouTube Tutorial: Python for Data Science and Machine Learning](https://youtu.be/7eh4d6sabA0?si=t8J8lfwbGYDU3Rnz)
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-Happy learning and coding! Feel free to reach out if you have any questions or suggestions.
+Happy learning and coding! Feel free to reach me on [LinkedIn][(https://www.linkedin.com/in/sandhavi)]. if you have any questions or suggestions.
