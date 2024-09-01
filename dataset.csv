@@ -1,0 +1,31 @@
+Name,Age,Score,Department,Experience,Salary,City,Bonus
+Alice,31,75,HR,7,36286,New York,4543
+Bob,26,89,Engineering,6,30655,Los Angeles,2869
+Charlie,23,87,Marketing,10,52885,Chicago,3900
+David,33,78,Engineering,10,34280,Houston,2189
+Eva,31,62,HR,12,34037,Phoenix,3895
+Frank,34,61,Sales,10,51479,Philadelphia,4225
+Grace,25,81,Sales,3,53889,San Antonio,2142
+Hannah,38,74,HR,5,32321,San Diego,2192
+Ian,34,73,Marketing,2,42464,Dallas,1637
+Jade,33,61,Engineering,14,32061,San Jose,2811
+Kyle,33,83,HR,10,65283,Austin,1285
+Lily,30,94,Engineering,1,47459,Jacksonville,2446
+Mona,38,96,Sales,13,69842,Fort Worth,4637
+Nathan,32,91,Marketing,7,54029,Columbus,1637
+Olivia,39,60,HR,3,64334,Charlotte,4010
+Paul,36,92,Sales,5,32294,San Francisco,3656
+Quincy,34,74,Engineering,1,44835,Indianapolis,1721
+Rachel,26,66,Marketing,8,67849,Seattle,1646
+Steve,24,67,Sales,1,48630,Denver,3901
+Tina,23,74,HR,14,62830,Washington,1708
+Uma,36,67,Engineering,1,46331,Boston,2362
+Victor,33,82,Sales,10,51026,El Paso,1286
+Wendy,28,80,Marketing,1,31557,Nashville,1498
+Xander,28,82,HR,12,61189,Detroit,2392
+Yara,26,85,Engineering,14,42478,Portland,3342
+Zach,24,93,Sales,1,33606,Las Vegas,2116
+Amy,39,78,HR,5,52728,Memphis,2143
+Brian,33,85,Marketing,9,37885,Louisville,1408
+Cathy,36,83,Sales,5,35523,Baltimore,2505
+Dylan,30,94,Engineering,7,68298,Milwaukee,2968
